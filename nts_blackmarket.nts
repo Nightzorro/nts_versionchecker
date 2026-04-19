@@ -1,0 +1,11 @@
+[
+  {
+    "version": "1.0.0",
+    "changelog": [
+      "İlk yayınlanma (v1.0.0)",
+      "ox_lib bildirim sistemi entegre edildi",
+      "Opsiyonel ox_target desteği eklendi",
+      "NTS script sürüm kontrolcüsü eklendi"
+    ]
+  }
+]
